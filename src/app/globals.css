@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.nav-item > .active {
+  border-bottom: 1px solid #333;
+}
